@@ -1,1 +1,0 @@
-# linux-devops-incident-lab-
